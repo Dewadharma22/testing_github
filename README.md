@@ -1,6 +1,7 @@
 # Welcome to my Repo
 ---
-This repo is about python code
+This repo is about python code.
+
 The code is to find the pythagoras number with params a and b as integer value
 
 ```python
